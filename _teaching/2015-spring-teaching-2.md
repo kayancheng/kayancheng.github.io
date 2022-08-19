@@ -8,7 +8,7 @@ date: 2021-01-01
 location: "Hong Kong"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+[Assignment1](/files/CUHK_assignments/ECON4130_Assignment1.html)
 
 Heading 1
 ======
