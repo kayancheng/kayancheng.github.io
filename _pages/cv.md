@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Economics, Emory University, *2026 (expected)
+* Ph.D. in Economics, Emory University, <i> 2026 (expected) </i>
 * M.Phil. in Economics, The Chinese University of Hong Kong (CUHK), *2021
   - Thesis Title: “Estimating Temporal Treatment Effect by Neural Network”
 * B.S.Sc. in Economics, The Chinese University of Hong Kong (CUHK), *2019
