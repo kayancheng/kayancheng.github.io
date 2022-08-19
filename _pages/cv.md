@@ -47,7 +47,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-"["[CV in pdf](/files/CV.pdf)"]"
+[[CV in pdf](/files/CV.pdf)]
 
 <!-- Service and leadership
 ======
