@@ -16,11 +16,14 @@ Education
   - Thesis Title: “Estimating Temporal Treatment Effect by Neural Network”
 * B.S.Sc. in Economics, The Chinese University of Hong Kong (CUHK), 2019
 
+Research interests
+======
+Econometrics and Machine Learning
+
 Work experience
 ======
-* Sept 2017 - Jul 2021: Research Assistant for Prof. Zhentao Shi
-
-* Jun 2018 - Aug 2018: Summer Intern at Banking Supervision Department, The Hong Kong Monetary Authority
+* Research Assistant for Prof. Zhentao Shi, Sept 2017 - Jul 2021
+* Summer Intern at Banking Supervision Department, The Hong Kong Monetary Authority, Jun 2018 - Aug 2018
   
 Skills
 ======
