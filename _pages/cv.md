@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV" [in pdf](/files/CV.pdf)
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -46,6 +46,8 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+[CV in pdf](/files/CV.pdf)
 
 <!-- Service and leadership
 ======
