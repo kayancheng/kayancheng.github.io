@@ -18,15 +18,9 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sept 2017 - Jul 2021: Research Assistant for Prof. Zhentao Shi
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jun 2018 - Aug 2018: Summer Intern at Banking Supervision Department, The Hong Kong Monetary Authority
   
 Skills
 ======
