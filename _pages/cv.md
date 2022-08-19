@@ -43,6 +43,7 @@ Publications
   
 Teaching
 ======
+  <style type="text/css">* { padding: 0; margin: 0; }</style>
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
