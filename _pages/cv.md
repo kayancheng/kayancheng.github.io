@@ -25,14 +25,9 @@ Work experience
 * Research Assistant for Prof. Zhentao Shi, Sept 2017 - Jul 2021
 * Summer Intern at Banking Supervision Department, The Hong Kong Monetary Authority, Jun 2018 - Aug 2018
   
-Skills
+Programming Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python, R, Stata, MATLAB 
 
 Publications
 ======
