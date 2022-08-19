@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Economics, Emory University, <i> 2026 (expected) </i>
-* M.Phil. in Economics, The Chinese University of Hong Kong (CUHK), *2021
+* Ph.D. in Economics, Emory University, 2026 (expected) 
+* M.Phil. in Economics, The Chinese University of Hong Kong (CUHK), 2021
   - Thesis Title: “Estimating Temporal Treatment Effect by Neural Network”
-* B.S.Sc. in Economics, The Chinese University of Hong Kong (CUHK), *2019
+* B.S.Sc. in Economics, The Chinese University of Hong Kong (CUHK), 2019
 
 Research interests
 ======
@@ -22,8 +22,8 @@ Research interests
 
 Work experience
 ======
-* Research Assistant for Prof. Zhentao Shi, *Sept 2017 - Jul 2021
-* Summer Intern at Banking Supervision Department, The Hong Kong Monetary Authority, *Jun 2018 - Aug 2018
+* Research Assistant for Prof. Zhentao Shi, Sept 2017 - Jul 2021
+* Summer Intern at Banking Supervision Department, The Hong Kong Monetary Authority, Jun 2018 - Aug 2018
   
 Programming Skills
 ======
