@@ -41,20 +41,12 @@ Publications
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
   
-Teaching
+Teaching 
 ======
-- Teaching assistant, CUHK, 2019-2021
-      - <ul>{% for post in site.teaching %}
+Teaching assistant, CUHK, 2019-2021
+<ul>{% for post in site.teaching %}
         {% include archive-single-cv.html %}
-      {% endfor %}
-
-      <h2><u> ECON4470 Economics of Behavioral Finance</u> </h2>
-       Undergraduate course, <i> CUHK, Department of Economics </i>, 2021
-
-       <h2><u> ECON1101 Mathematical Methods in Economics I </u></h2>
-       Undergraduate course, <i> CUHK, Department of Economics </i>, 2019
-  
-        </ul>
+      {% endfor %}</ul>
   
   
 [[CV in pdf](/files/CV.pdf)]
