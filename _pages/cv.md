@@ -46,9 +46,9 @@ Teaching
 Teaching assistant, CUHK, 2019-2021
 <ul>{% for post in site.teaching %}
         {% include archive-single-cv.html %}
-      {% endfor %}
-  * <b><u> ECON4470 Economics of Behavioral Finance</u> </b> <br>
-  * <b><u> ECON1101 Mathematical Methods in Economics I </u></b> </ul>
+      {% endfor %}  </ul>
+ * <b><u> ECON4470 Economics of Behavioral Finance</u> </b> <br>
+ * <b><u> ECON1101 Mathematical Methods in Economics I </u></b>
 
 
   
