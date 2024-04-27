@@ -20,10 +20,10 @@ Research interests
 ======
 * Econometrics and Machine Learning
 
-Work experience
+<!-- Work experience
 ======
 * Research Assistant for [Prof. Zhentao Shi](http://zhentaoshi.github.io/), Sept 2017 - Jul 2021
-* Summer Intern at Banking Supervision Department, The Hong Kong Monetary Authority, Jun 2018 - Aug 2018
+* Summer Intern at Banking Supervision Department, The Hong Kong Monetary Authority, Jun 2018 - Aug 2018 -->
   
 Programming Skills
 ======
@@ -43,6 +43,10 @@ Publications
   
 Teaching 
 ======
+Teaching assistant, Emory University, 2022 - 
+ * <b><u> ECON 620 Probability Theory and Statistical Inference</u> </b> <br>
+ * <b><u> ECON 320 Econometrics </u></b>
+ * <b><u> ECON 220 Data Science for Economists </u></b>
 Teaching assistant, CUHK, 2019-2021
  * <b><u> ECON4470 Economics of Behavioral Finance</u> </b> <br>
  * <b><u> ECON1101 Mathematical Methods in Economics I </u></b>
