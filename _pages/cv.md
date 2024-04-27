@@ -13,7 +13,6 @@ Education
 ======
 * Ph.D. in Economics, [Emory University](https://economics.emory.edu/), 2026 (expected) 
 * M.Phil. in Economics, [The Chinese University of Hong Kong (CUHK)](http://www.econ.cuhk.edu.hk/), 2021
-  - Thesis Title: “Estimating Temporal Treatment Effect by Neural Network”
 * B.S.Sc. in Economics, [The Chinese University of Hong Kong (CUHK)](http://www.econ.cuhk.edu.hk/), 2019
 
 Research interests
