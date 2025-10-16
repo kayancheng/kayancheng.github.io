@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Economics, [Emory University](https://economics.emory.edu/), 2026 (expected) 
+* Ph.D. in Economics, [Emory University](https://economics.emory.edu/), 2027 (expected) 
 * M.Phil. in Economics, [The Chinese University of Hong Kong (CUHK)](http://www.econ.cuhk.edu.hk/), 2021
 * B.S.Sc. in Economics, [The Chinese University of Hong Kong (CUHK)](http://www.econ.cuhk.edu.hk/), 2019
 
