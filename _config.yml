@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ka Yan CHENG"
+title                    : "Ka Yan Cheng"
 title_separator          : "-"
-name                     : &name "Ka Yan CHENG"
-description              : &description "2nd year Economics Ph.D. student at Emory University"
+name                     : &name "Ka Yan Cheng"
+description              : &description "5th year Economics Ph.D. student at Emory University"
 url                      : https://kayancheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kayancheng.github.io"
