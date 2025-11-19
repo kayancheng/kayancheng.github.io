@@ -9,57 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D. in Economics, [Emory University](https://economics.emory.edu/), 2027 (expected) 
-* M.Phil. in Economics, [The Chinese University of Hong Kong (CUHK)](http://www.econ.cuhk.edu.hk/), 2021
-* B.S.Sc. in Economics, [The Chinese University of Hong Kong (CUHK)](http://www.econ.cuhk.edu.hk/), 2019
-
-Research interests
-======
-* Econometrics and Machine Learning
-
-<!-- Work experience
-======
-* Research Assistant for [Prof. Zhentao Shi](http://zhentaoshi.github.io/), Sept 2017 - Jul 2021
-* Summer Intern at Banking Supervision Department, The Hong Kong Monetary Authority, Jun 2018 - Aug 2018 -->
-  
-Programming Skills
-======
-* Python, R, Stata, MATLAB 
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-<!-- Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
-  
-Teaching 
-======
-Teaching assistant, Emory University, 2022 - 
- * <b><u> ECON 620 Probability Theory and Statistical Inference</u> </b> <br>
- * <b><u> ECON 320 Econometrics </u></b>
- * <b><u> ECON 220 Data Science for Economists </u></b>
- 
-Teaching assistant, CUHK, 2019-2021
- * <b><u> ECON4470 Economics of Behavioral Finance</u> </b> <br>
- * <b><u> ECON1101 Mathematical Methods in Economics I </u></b>
-<ul>{% for post in site.teaching %}
-        {% include archive-single-cv.html %}
-      {% endfor %}  </ul>
-
-
-
-  
-  
-[[CV in pdf](/files/CV.pdf)]
-
-<!-- Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
+<iframe
+  src="/files/CV.pdf#view=FitH"
+  width="100%"
+  height="900px"
+  style="border: none;"
+>
+</iframe>
+<p>
+  If the PDF doesn’t load, you can
+  <a href="/files/CV.pdf">download it here</a>.
+</p>
