@@ -15,14 +15,16 @@
   }
 
   a {
-    text-decoration: underline;
-
+    color: $link-color;
+    text-decoration: none;
+    
     &:hover {
+      color: $link-color-hover;
       text-decoration: underline;
-
-      img {
-        box-shadow: 0 0 10px rgba(#000, 0.25);
-      }
+    }
+    
+    &:visited {
+      color: $link-color-visited;
     }
   }
 }
