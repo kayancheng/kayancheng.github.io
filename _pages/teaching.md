@@ -7,14 +7,14 @@ author_profile: true
 
 * * *
 
-## As Instructor
+## Instructor
 ---
 
 ### Emory University
 
 - ECON 320: Econometrics (Lab) (UG)
 
-## As Teaching Assistant
+## Teaching Assistant
 ---
 
 ### Emory University
