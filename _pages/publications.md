@@ -1,16 +1,17 @@
 ---
 layout: archive
-title: "Research"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+# Publications
 
-{% include base_path %}
+* * *
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+### [1]. Survey-Based Forecasting: To Average or Not to Average
+
+with Naijing Huang and Zhentao Shi  
+In *Behavioral Predictive Modeling in Economics* (Studies in Computational Intelligence, vol. 897), Springer, 2021, pp. 87–104.  
+
+[Springer link](https://link.springer.com/chapter/10.1007/978-3-030-49728-6_5)
