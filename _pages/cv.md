@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <iframe
-  src="/files/CV.pdf#view=FitH"
+  src="/files/CV.pdf"
   width="100%"
   height="900px"
   style="border: none;"
