@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <iframe
-  src="/files/CV.pdf?v=3"
+  src="/files/CV.pdf?v=4"
   width="100%"
   height="900px"
   style="border: none;"
