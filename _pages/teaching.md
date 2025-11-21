@@ -5,20 +5,20 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Instructor
+## As Instructor
 ---
 
 ### Emory University
-<div style="line-height: 1.4;">
+<div style="line-height: 1.4;" markdown="1">
 
-ECON 320: Econometrics (Lab) (UG)<br>
-<span style="font-size: 90%;">[Course materials](/econ320lab/)</span><br>
+- ECON 320: Econometrics (Lab) (UG)  
+  <span style="font-size: 90%;">[\[Course materials\]](/econ320lab/)</span>
 
 </div>
-- 
+
   
 
-## Teaching Assistant
+## As Teaching Assistant
 ---
 
 ### Emory University
