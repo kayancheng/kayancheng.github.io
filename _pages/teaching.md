@@ -11,6 +11,7 @@ author_profile: true
 ### Emory University
 
 - ECON 320: Econometrics (Lab) (UG)
+  [Course materials]
 
 ## Teaching Assistant
 ---
