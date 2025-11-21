@@ -5,8 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-* * *
-
 ## Instructor
 ---
 
