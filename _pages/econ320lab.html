@@ -46,27 +46,29 @@ author_profile: true
     margin: 0.1rem 0;
   }
   .econ320-table-wrapper {
-    max-width: 900px;
+    max-width: 100%;
     overflow-x: auto;
   }
+  
   table.econ320-table {
     width: 100%;
     border-collapse: collapse;
-    font-size: 0.95rem;
-    table-layout: fixed;          /* consistent column widths */
+    font-size: 0.9rem;   /* slightly smaller text in the table */
+    /* removed table-layout: fixed; so columns can resize naturally */
   }
+  
   table.econ320-table thead th {
     text-align: left;
     padding: 0.5rem 0.6rem;
     border-bottom: 1px solid #cfcfcf;
     background: #fafafa;
   }
+  
   table.econ320-table tbody td {
-    padding: 0.5rem 0.6rem;       /* more vertical space */
+    padding: 0.5rem 0.6rem;
     border-bottom: 1px solid #e5e5e5;
     vertical-align: top;
-    line-height: 1.4;             /* nicer wrapping */
-    word-wrap: break-word;
+    line-height: 1.4;
   }
   table.econ320-table tbody tr:last-child td {
     border-bottom: none;
@@ -114,26 +116,19 @@ author_profile: true
   <ul class="econ320-links">
     <li><a href="/files/Econ320LAB/syllabus/Econ320_Lab_Syllabus.pdf">Syllabus (PDF)</a></li>
   </ul>
-  <p class="econ320-note">
-    Adjust the file name and path above to match the file you upload under <code>files/Econ320LAB/syllabus/</code>.
-  </p>
 </div>
 
 <div class="econ320-section">
   <h2>Weekly topics and materials</h2>
-  <p>
-    Use the table below as an index for weekly materials. Replace the placeholders with links to the
-    HTML and notebook files once they are uploaded.
-  </p>
 
   <div class="econ320-table-wrapper">
     <table class="econ320-table">
       <thead>
         <tr>
-          <th style="width:8%;">Week</th>
-          <th style="width:42%;">Topic</th>
-          <th style="width:25%;">Lecture notes</th>
-          <th style="width:25%;">Lab exercise</th>
+          <th style="width:10%;">Week</th>
+          <th style="width:50%;">Topic</th>
+          <th style="width:20%;">Lecture notes</th>
+          <th style="width:20%;">Lab exercise</th>
         </tr>
       </thead>
       <tbody>
