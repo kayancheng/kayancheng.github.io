@@ -36,7 +36,7 @@ author_profile: true
 <div style="line-height: 1.4;" markdown="1">
   
 - ECON 4130: Economic Analysis for Social Networks (UG) <br>
-   <span style="font-size: 75%;">[\[Assignment - Getting To Know Our Faculty\]](/files/CUHK_TA/ECON4130_Assignment1.html) [\[Assignment - PM2.5 Concentration in Beijing\]](/files/CUHK_TA/ECON4130_Assignment2.html) [\[Assignment - Trading $TSLA with @elonmusk\]](/files/CUHK_TA/ECON4130_Assignment3.html) [\[Extra lecture on Chinese Natural Language Processing\]](/files/CUHK_TA/ECON4130_NLP_in_Chinese.html)</span>
+   <span style="font-size: 80%;">[\[Assignment - Getting To Know Our Faculty\]](/files/CUHK_TA/ECON4130_Assignment1.html) [\[Assignment - PM2.5 Concentration in Beijing\]](/files/CUHK_TA/ECON4130_Assignment2.html) [\[Assignment - Trading $TSLA with @elonmusk\]](/files/CUHK_TA/ECON4130_Assignment3.html) [\[Extra lecture on Chinese Natural Language Processing\]](/files/CUHK_TA/ECON4130_NLP_in_Chinese.html)</span>
    
 </div>
 - ECON 1101: Mathematical Methods in Economics I (UG)
