@@ -32,6 +32,9 @@ author_profile: true
 
 ### The Chinese University of Hong Kong
 
-- ECON 4470: Economics of Behavioral Finance (UG)  
+- ECON 4470: Economics of Behavioral Finance (UG)
+<div style="line-height: 1.4;" markdown="1">
 - ECON 4130: Economic Analysis for Social Networks (UG) 
+   <span style="font-size: 90%;">[\[Assignment - Getting To Know Our Faculty\]](/files/CUHK_TA/ECON4130_Assignment1.html)</span>
+</div>
 - ECON 1101: Mathematical Methods in Economics I (UG)
