@@ -9,9 +9,14 @@ author_profile: true
 ---
 
 ### Emory University
+<div style="line-height: 1.4;">
 
-- ECON 320: Econometrics (Lab) (UG)
-  [Course materials]
+ECON 320: Econometrics (Lab) (UG)<br>
+<span style="font-size: 90%;">[Course materials](/econ320lab/)</span><br>
+
+</div>
+- 
+  
 
 ## Teaching Assistant
 ---
