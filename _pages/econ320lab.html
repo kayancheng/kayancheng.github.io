@@ -24,7 +24,7 @@ author_profile: true
   }
   .econ320-section {
     margin-top: 1.8rem;
-    font-size: 0.9rem;  /* smaller “normal” text */
+    font-size: 0.95rem;  /* smaller body text */
   }
   .econ320-section h2 {
     font-size: 1.15rem;
@@ -46,24 +46,27 @@ author_profile: true
     margin: 0.1rem 0;
   }
   .econ320-table-wrapper {
-    max-width: 850px;
+    max-width: 900px;
     overflow-x: auto;
   }
   table.econ320-table {
     width: 100%;
     border-collapse: collapse;
     font-size: 0.95rem;
+    table-layout: fixed;          /* consistent column widths */
   }
   table.econ320-table thead th {
     text-align: left;
-    padding: 0.4rem 0.5rem;
+    padding: 0.5rem 0.6rem;
     border-bottom: 1px solid #cfcfcf;
     background: #fafafa;
   }
   table.econ320-table tbody td {
-    padding: 0.35rem 0.5rem;
+    padding: 0.5rem 0.6rem;       /* more vertical space */
     border-bottom: 1px solid #e5e5e5;
     vertical-align: top;
+    line-height: 1.4;             /* nicer wrapping */
+    word-wrap: break-word;
   }
   table.econ320-table tbody tr:last-child td {
     border-bottom: none;
@@ -127,10 +130,10 @@ author_profile: true
     <table class="econ320-table">
       <thead>
         <tr>
-          <th style="width:7%;">Week</th>
-          <th style="width:33%;">Topic</th>
-          <th style="width:30%;">Lecture notes</th>
-          <th style="width:30%;">Lab exercise</th>
+          <th style="width:8%;">Week</th>
+          <th style="width:42%;">Topic</th>
+          <th style="width:25%;">Lecture notes</th>
+          <th style="width:25%;">Lab exercise</th>
         </tr>
       </thead>
       <tbody>
@@ -215,7 +218,10 @@ author_profile: true
         </tr>
         <tr>
           <td>11</td>
-          <td>Critical Thinking &amp; Causal Inference: Endogeneity &amp; Instrumental Variables (IV)</td>
+          <td>
+            Critical Thinking &amp; Causal Inference:<br>
+            Endogeneity &amp; Instrumental Variables (IV)
+          </td>
           <td><span class="econ320-note">HTML, notebook</span></td>
           <td><span class="econ320-note">HTML, notebook</span></td>
         </tr>
@@ -275,5 +281,6 @@ author_profile: true
     </li>
   </ul>
 </div>
+
 
 
