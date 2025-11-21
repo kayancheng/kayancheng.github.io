@@ -11,7 +11,7 @@ author_profile: true
 ### Emory University
 <div style="line-height: 1.4;" markdown="1">
 
-- ECON 320: Econometrics (Lab) (UG)  
+- ECON 320: Econometrics (Lab) (UG)  <br>
   <span style="font-size: 90%;">[\[Course materials\]](/econ320lab/)</span>
 
 </div>
@@ -35,8 +35,8 @@ author_profile: true
 - ECON 4470: Economics of Behavioral Finance (UG)
 <div style="line-height: 1.4;" markdown="1">
   
-- ECON 4130: Economic Analysis for Social Networks (UG) 
-   <span style="font-size: 90%;">[\[Assignment - Getting To Know Our Faculty\]](/files/CUHK_TA/ECON4130_Assignment1.html)</span>
+- ECON 4130: Economic Analysis for Social Networks (UG) <br>
+   <span style="font-size: 90%;">[\[Assignment - Getting To Know Our Faculty\]](/files/CUHK_TA/ECON4130_Assignment1.html)[\[Assignment - PM2.5 Concentration in Beijing\]](/files/CUHK_TA/ECON4130_Assignment2.html)[\[Assignment - Trading $TSLA with @elonmusk\]](/files/CUHK_TA/ECON4130_Assignment3.html)[\[Extra lecture on Chinese Natural Language Processing\]](/files/CUHK_TA/ECON4130_NLP_in_Chinese.html)</span>
    
 </div>
 - ECON 1101: Mathematical Methods in Economics I (UG)
