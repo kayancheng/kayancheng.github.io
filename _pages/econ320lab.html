@@ -1,0 +1,278 @@
+---
+title: "ECON 320: Econometrics Lab (1/2) Fall 2025"
+permalink: /econ320lab/
+layout: single
+author_profile: true
+---
+
+<style>
+  .econ320-header {
+    margin-bottom: 1.5rem;
+  }
+  .econ320-header-title {
+    font-size: 1.6rem;
+    font-weight: 600;
+    margin-bottom: 0.2rem;
+  }
+  .econ320-header-meta {
+    font-size: 0.95rem;
+    color: #555;
+    margin: 0;
+  }
+  .econ320-header-meta + .econ320-header-meta {
+    margin-top: 0.1rem;
+  }
+  .econ320-section {
+    margin-top: 1.8rem;
+  }
+  .econ320-section h2 {
+    font-size: 1.15rem;
+    font-weight: 600;
+    margin: 0 0 0.4rem 0;
+    padding-bottom: 0.2rem;
+    border-bottom: 1px solid #dddddd;
+  }
+  .econ320-note {
+    font-size: 0.85rem;
+    color: #777;
+  }
+  .econ320-links {
+    margin: 0.4rem 0 0.8rem 0;
+    padding-left: 1.2rem;
+    font-size: 0.95rem;
+  }
+  .econ320-links li {
+    margin: 0.1rem 0;
+  }
+  .econ320-table-wrapper {
+    max-width: 850px;
+    overflow-x: auto;
+  }
+  table.econ320-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.95rem;
+  }
+  table.econ320-table thead th {
+    text-align: left;
+    padding: 0.4rem 0.5rem;
+    border-bottom: 1px solid #cfcfcf;
+    background: #fafafa;
+  }
+  table.econ320-table tbody td {
+    padding: 0.35rem 0.5rem;
+    border-bottom: 1px solid #e5e5e5;
+    vertical-align: top;
+  }
+  table.econ320-table tbody tr:last-child td {
+    border-bottom: none;
+  }
+</style>
+
+<div class="econ320-header">
+  <div class="econ320-header-title">ECON 320: Econometrics Lab (1/2)</div>
+  <p class="econ320-header-meta">Emory University, Department of Economics</p>
+  <p class="econ320-header-meta">Instructor: Ka Yan Cheng</p>
+</div>
+
+<div class="econ320-section">
+  <h2>Overview</h2>
+  <p>
+    This course provides hands-on experience with econometric methods, from foundational data analysis
+    to advanced causal inference techniques. Using the Python programming language, students learn how
+    to manage data, run regressions, test hypotheses, and interpret results in real-world economic
+    contexts. Topics include descriptive statistics, data visualization, simple and multiple linear
+    regression, qualitative data handling, model specification issues, inference methods, and robust
+    standard errors. In an era of expanding generative AI tools, we place special emphasis on developing
+    the ability to question results, evaluate assumptions, and draw sound conclusions from data.
+  </p>
+</div>
+
+<div class="econ320-section">
+  <h2>Learning objectives</h2>
+  <ol>
+    <li>Organize, clean, and present economic data clearly and effectively.</li>
+    <li>Apply OLS to estimate linear regression models (simple and multiple) to analyze
+        relationships between variables.</li>
+    <li>Incorporate qualitative data into regression models using dummy variables and
+        interactions.</li>
+    <li>Diagnose and address common specification issues such as multicollinearity and omitted
+        variable bias.</li>
+    <li>Perform hypothesis testing (t-tests, F-tests) and compute heteroskedasticity-robust
+        standard errors.</li>
+    <li>Think critically before drawing causal conclusions.</li>
+  </ol>
+  <p class="econ320-note">Happy learning!</p>
+</div>
+
+<div class="econ320-section">
+  <h2>Key materials</h2>
+  <ul class="econ320-links">
+    <li><a href="/files/Econ320LAB/syllabus/Econ320_Lab_Syllabus.pdf">Syllabus (PDF)</a></li>
+  </ul>
+  <p class="econ320-note">
+    Adjust the file name and path above to match the file you upload under <code>files/Econ320LAB/syllabus/</code>.
+  </p>
+</div>
+
+<div class="econ320-section">
+  <h2>Weekly topics and materials</h2>
+  <p>
+    Use the table below as an index for weekly materials. Replace the placeholders with links to the
+    HTML and notebook files once they are uploaded.
+  </p>
+
+  <div class="econ320-table-wrapper">
+    <table class="econ320-table">
+      <thead>
+        <tr>
+          <th style="width:7%;">Week</th>
+          <th style="width:33%;">Topic</th>
+          <th style="width:30%;">Lecture notes</th>
+          <th style="width:30%;">Lab exercise</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>0</td>
+          <td>Class Logistics & Getting used to GitHub Classroom</td>
+          <td>
+            <span class="econ320-note">Slides</span>
+            <!-- Example:
+            <a href="/files/Econ320LAB/lectures/Week%200/Econ320Lab_Week0_Slides.pdf">Slides (PDF)</a><br>
+            <a href="/files/Econ320LAB/lectures/Week%200/Completed/ECON320LAB-Week0.html">HTML</a> |
+            <a href="/files/Econ320LAB/lectures/Week%200/Completed/ECON320LAB-Week0.ipynb">Notebook</a>
+            -->
+          </td>
+          <td>
+            <span class="econ320-note">HTML, notebook</span>
+            <!-- Example:
+            <a href="/files/Econ320LAB/lectures/Week%200/Lab_Exercise/ECON320LAB-LabExWeek0.html">HTML</a> |
+            <a href="/files/Econ320LAB/lectures/Week%200/Lab_Exercise/ECON320LAB-LabExWeek0.ipynb">Notebook</a>
+            -->
+          </td>
+        </tr>
+        <tr>
+          <td>1</td>
+          <td>Review: Descriptive Statistics & Basic Python Coding </td>
+          <td><span class="econ320-note">HTML, notebook</span></td>
+          <td><span class="econ320-note">HTML, notebook</span></td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td>Understanding and Presenting Data </td>
+          <td><span class="econ320-note">HTML, notebook</span></td>
+          <td><span class="econ320-note">HTML, notebook</span></td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td>OLS Estimator for Simple Linear Regression</td>
+          <td><span class="econ320-note">HTML, notebook</span></td>
+          <td><span class="econ320-note">HTML, notebook</span></td>
+        </tr>
+        <tr>
+          <td>4</td>
+          <td>OLS Estimator for Multiple Linear Regression</td>
+          <td><span class="econ320-note">HTML, notebook</span></td>
+          <td><span class="econ320-note">HTML, notebook</span></td>
+        </tr>
+        <tr>
+          <td>5</td>
+          <td>Incorporating Qualitative Data</td>
+          <td><span class="econ320-note">HTML, notebook</span></td>
+          <td><span class="econ320-note">HTML, notebook</span></td>
+        </tr>
+        <tr>
+          <td>6</td>
+          <td>Multicollinearity</td>
+          <td><span class="econ320-note">HTML, notebook</span></td>
+          <td><span class="econ320-note">HTML, notebook</span></td>
+        </tr>
+        <tr>
+          <td>7</td>
+          <td>Omitted Variable Bias</td>
+          <td><span class="econ320-note">HTML, notebook</span></td>
+          <td><span class="econ320-note">HTML, notebook</span></td>
+        </tr>
+        <tr>
+          <td>8</td>
+          <td>Asymptotic Analysis</td>
+          <td><span class="econ320-note">HTML, notebook</span></td>
+          <td><span class="econ320-note">HTML, notebook</span></td>
+        </tr>
+        <tr>
+          <td>9</td>
+          <td>Inference: t Test & F Test</td>
+          <td><span class="econ320-note">HTML, notebook</span></td>
+          <td><span class="econ320-note">HTML, notebook</span></td>
+        </tr>
+        <tr>
+          <td>10</td>
+          <td>Heteroskedasticity-robust standard errors</td>
+          <td><span class="econ320-note">HTML, notebook</span></td>
+          <td><span class="econ320-note">HTML, notebook</span></td>
+        </tr>
+        <tr>
+          <td>11</td>
+          <td>Critical Thinking & Causal Inference:
+Endogeneity & Instrumental Variables (IV)</td>
+          <td><span class="econ320-note">HTML, notebook</span></td>
+          <td><span class="econ320-note">HTML, notebook</span></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<div class="econ320-section">
+  <h2>Assignments</h2>
+  <ul class="econ320-links">
+    <li>
+      <strong>Problem set 1</strong> –
+      <span class="econ320-note">HTML, notebook</span>
+      <!-- Example:
+      <a href="/files/Econ320LAB/problem%20sets/ECON320LAB-PS1.html">HTML</a> |
+      <a href="/files/Econ320LAB/problem%20sets/ECON320LAB-PS1.ipynb">Notebook</a>
+      -->
+    </li>
+    <li>
+      <strong>Problem set 2</strong> –
+      <span class="econ320-note">HTML, notebook</span>
+      <!-- Example:
+      <a href="/files/Econ320LAB/problem%20sets/ECON320LAB-PS2.html">HTML</a> |
+      <a href="/files/Econ320LAB/problem%20sets/ECON320LAB-PS2.ipynb">Notebook</a>
+      -->
+    </li>
+    <li>
+      <strong>Problem set 3</strong> –
+      <span class="econ320-note">HTML, notebook</span>
+      <!-- Example:
+      <a href="/files/Econ320LAB/problem%20sets/ECON320LAB-PS3.html">HTML</a> |
+      <a href="/files/Econ320LAB/problem%20sets/ECON320LAB-PS3.ipynb">Notebook</a>
+      -->
+    </li>
+    <li>
+      <strong>Problem set 4</strong> –
+      <span class="econ320-note">HTML, notebook</span>
+      <!-- Example:
+      <a href="/files/Econ320LAB/problem%20sets/ECON320LAB-PS4.html">HTML</a> |
+      <a href="/files/Econ320LAB/problem%20sets/ECON320LAB-PS4.ipynb">Notebook</a>
+      -->
+    </li>
+  </ul>
+</div>
+
+<div class="econ320-section">
+  <h2>Project</h2>
+  <ul class="econ320-links">
+    <li>
+      <strong>Final project</strong> –
+      <span class="econ320-note">guidelines, datasets</span>
+      <!-- Example:
+      <a href="/files/Econ320LAB/project%20guidelines/final_project_guideline.html">Guidelines</a> |
+      <a href="/files/Econ320LAB/project%20guidelines/final_project_datasets.html">Datasets information</a>
+      -->
+    </li>
+  </ul>
+</div>
+
