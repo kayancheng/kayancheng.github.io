@@ -24,5 +24,4 @@ author_profile: true
 <span style="font-size: 90%;">In <em>Behavioral Predictive Modeling in Economics</em> (Studies in Computational Intelligence, vol. 897), Springer, 2021, pp. 87–104.</span><br>
 
 </div>
-```
 
